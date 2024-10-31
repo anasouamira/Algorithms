@@ -1,0 +1,3 @@
+﻿  Problem36.cpp
+C:\Users\brahim ouamira\Desktop\programing\pratique\C++\Problem36\Problem36\Problem36.cpp(37,1): warning C4715: 'CheckOperationType' : les chemins de contrôle ne retournent pas tous une valeur
+  Problem36.vcxproj -> C:\Users\brahim ouamira\Desktop\programing\pratique\C++\Problem36\x64\Debug\Problem36.exe

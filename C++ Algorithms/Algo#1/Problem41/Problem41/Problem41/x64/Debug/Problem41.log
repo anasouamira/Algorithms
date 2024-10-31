@@ -1,0 +1,4 @@
+﻿  Problem41.cpp
+C:\Users\brahim ouamira\Desktop\programing\pratique\C++\Problem41\Problem41\Problem41.cpp(25,29): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\brahim ouamira\Desktop\programing\pratique\C++\Problem41\Problem41\Problem41.cpp(26,30): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+  Problem41.vcxproj -> C:\Users\brahim ouamira\Desktop\programing\pratique\C++\Problem41\Problem41\x64\Debug\Problem41.exe

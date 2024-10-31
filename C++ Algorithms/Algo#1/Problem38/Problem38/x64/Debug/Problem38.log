@@ -1,0 +1,5 @@
+﻿  Problem38.cpp
+C:\Users\brahim ouamira\Desktop\programing\pratique\C++\Problem38\Problem38\Problem38.cpp(14,9): warning C4244: 'return' : conversion de 'int' en 'float', perte possible de données
+C:\Users\brahim ouamira\Desktop\programing\pratique\C++\Problem38\Problem38\Problem38.cpp(18,8): warning C4244: 'initialisation' : conversion de 'double' en 'int', perte possible de données
+C:\Users\brahim ouamira\Desktop\programing\pratique\C++\Problem38\Problem38\Problem38.cpp(40,28): warning C4244: 'argument' : conversion de 'float' en 'int', perte possible de données
+  Problem38.vcxproj -> C:\Users\brahim ouamira\Desktop\programing\pratique\C++\Problem38\x64\Debug\Problem38.exe

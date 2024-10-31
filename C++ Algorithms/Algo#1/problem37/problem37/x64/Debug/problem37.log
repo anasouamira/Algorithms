@@ -1,0 +1,4 @@
+﻿  problem37.cpp
+C:\Users\brahim ouamira\Desktop\programing\pratique\C++\problem37\problem37\problem37.cpp(10,13): warning C4244: 'return' : conversion de 'int' en 'float', perte possible de données
+C:\Users\brahim ouamira\Desktop\programing\pratique\C++\problem37\problem37\problem37.cpp(18,18): warning C4244: '=' : conversion de 'float' en 'int', perte possible de données
+  problem37.vcxproj -> C:\Users\brahim ouamira\Desktop\programing\pratique\C++\problem37\x64\Debug\problem37.exe

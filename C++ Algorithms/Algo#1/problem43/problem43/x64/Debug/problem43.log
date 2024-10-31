@@ -1,0 +1,6 @@
+﻿  problem43.cpp
+C:\Users\brahim ouamira\Desktop\programing\pratique\C++\problem43\problem43\problem43.cpp(19,10): warning C4244: 'return' : conversion de 'double' en 'int', perte possible de données
+C:\Users\brahim ouamira\Desktop\programing\pratique\C++\problem43\problem43\problem43.cpp(22,10): warning C4244: 'return' : conversion de 'double' en 'int', perte possible de données
+C:\Users\brahim ouamira\Desktop\programing\pratique\C++\problem43\problem43\problem43.cpp(25,10): warning C4244: 'return' : conversion de 'double' en 'int', perte possible de données
+C:\Users\brahim ouamira\Desktop\programing\pratique\C++\problem43\problem43\problem43.cpp(28,10): warning C4244: 'return' : conversion de 'double' en 'int', perte possible de données
+  problem43.vcxproj -> C:\Users\brahim ouamira\Desktop\programing\pratique\C++\problem43\x64\Debug\problem43.exe
